@@ -4,6 +4,8 @@ var accountPassword = "200307"
 accountCity = "Delhi"
 let accountNumber;
 
+accountPassword="43212"
+
 console.table([accountId, accountEmail, accountPassword, accountCity, accountNumber]);
 /*
 prefer not to use var because of issue in block scope and functional scope
