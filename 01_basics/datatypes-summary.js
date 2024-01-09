@@ -16,7 +16,7 @@ const accountId = Symbol()
 const heroes = ["spidey", "irey", "jordy", "john"]
 let myObj = {
     name: "aman",
-    age: "22",
+    age: "28",
 }
 
 // const myfunction = function(){
@@ -36,7 +36,7 @@ let myObj = {
 
 let user1 = {
     email: "her.com",
-    name: "aman",
+    name: "ram",
 }
 
 let user2 = user1;
