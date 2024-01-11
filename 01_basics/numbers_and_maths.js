@@ -10,7 +10,7 @@ console.log(balance.toFixed(2));
 const otherNumber = 123.8966
 console.log(otherNumber.toPrecision(3));
 
-const hundreds = 1000000
+const hundreds = 20000000
 console.log(hundreds.toLocaleString('en-In'));
 
 // +++++++++ Maths +++++++++++
